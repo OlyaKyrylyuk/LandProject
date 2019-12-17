@@ -1,0 +1,1 @@
+<p2>КОРИСТУВАЧ: {{$User_info->name}},<br> EMAIL: {{$User_info->email}},<br> НОМЕР ТЕЛЕФОНУ: {{$User_info->phone}}<br><br>ПОВІДОМЛЕННЯ:<br> {{$Message}}</p2>
